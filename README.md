@@ -53,3 +53,4 @@ Trading involves significant risk. This bot is for educational purposes and shou
 - Community support channel
 
 Would you like me to elaborate on any specific aspect of the bot's functionality or configuration?
+If you have some questions, feel free to reach out.

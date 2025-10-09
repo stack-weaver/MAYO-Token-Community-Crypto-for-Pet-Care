@@ -2,8 +2,6 @@ I aim to be helpful while encouraging safe and responsible trading. Here's a gen
 
 # Pumpfun Sniper Bot - Solana
 
-## Contact https://t.me/midaBrocoll
-
 ## Overview
 A trading bot designed to scan and execute trades on the Solana blockchain through decentralized exchanges (DEXs) like Raydium. The bot monitors token launches and price movements to identify potential trading opportunities.
 * This bot can make above 50x profit

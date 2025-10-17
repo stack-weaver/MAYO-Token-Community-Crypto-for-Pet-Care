@@ -1,56 +1,15 @@
-I aim to be helpful while encouraging safe and responsible trading. Here's a general README for a Solana pumpfun sniper bot:
+⚡ Title (shortest)
 
-# Pumpfun Sniper Bot - Solana
+MAYO Token — Community Crypto for Pet Care
 
-## Overview
-A trading bot designed to scan and execute trades on the Solana blockchain through decentralized exchanges (DEXs) like Raydium. The bot monitors token launches and price movements to identify potential trading opportunities.
-* This bot can make above 50x profit
+⚡ Short Description
 
-## Features
-- Real-time price monitoring
-- Multi-DEX support (Raydium, Jupiter)
-- Configurable slippage tolerance
-- Automatic trade execution
-- Token contract scanning
-- Custom buying/selling strategies
-- Wallet integration
-- Gas fee optimization
-- Stop loss & take profit settings
-- Telegram notifications
+A community-driven crypto token supporting affordable pet care and charitable causes.
 
-## Requirements
-- Node.js v16+
-- Solana wallet with SOL for transactions
-- RPC node access (preferably private)
-- Prior trading experience
-- Understanding of Solana DeFi
+MAYO Token is a cryptocurrency built to support pet welfare, inspired by the story of a paralyzed cat, Mr. Mayonnaise. The project has contributed to veterinary bills and promotes a community-focused ecosystem. Listed on exchanges like MEXC, the token combines charitable initiatives with blockchain-based transparency.
 
-## Installation
-```bash
-git clone [repository]
-cd solana-pumpfun-sniper
-npm install
-```
+🏷️ Keywords
 
-## Usage
-1. Start the bot:
-```bash
-npm start
-```
+MAYO Token, Crypto, Blockchain, Pet Care, Community Token, Charitable Crypto, NFT (if applicable), Cryptocurrency, Tokenomics, Decentralized Finance, Blockchain Project, MAYOSOL
 
-## Risk Management
-- Test with small amounts first
-- Set appropriate stop losses
-- Monitor bot performance
-- Keep private keys secure
-- Understand market volatility
-
-## Disclaimer
-Trading involves significant risk. This bot is for educational purposes and should be used responsibly. Users are responsible for their trading decisions and should understand the risks involved.
-
-- Documentation in `/docs`
-- Issue tracking on GitHub
-- Community support channel
-
-Would you like me to elaborate on any specific aspect of the bot's functionality or configuration?
-If you have some questions, feel free to reach out.
+```If you have a question in this project, feel free to reach out.```
